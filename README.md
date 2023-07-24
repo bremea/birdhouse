@@ -1,5 +1,5 @@
 # Birdhouse
-Free and open source federated social media, designed to resemble Twitter. Built on ActivityPub.
+Free and open source federated social media, designed to resemble Twitter. Built on ActivityPub & interoperable with Mastodon (+ others).
 
 ## Features
 
